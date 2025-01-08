@@ -24,6 +24,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 * ```getAge``` => age değerini dönmeli.
 * ```isTeen``` => age değeri 13-19 arasında ```true``` dönmeli. Diğer koşullarda ```false``` dönmeli.
 
+
 * main metodu içerisinde aşağıdaki gibi çağırımlar yapabilmelisiniz.
 * Person sınıfından birden fazla person ```instance``` oluşturarak. Bir sınıftan pek çok obje oluşturabilmeyi deneyimleyiniz.
 
